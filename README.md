@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Richard! I'm an Electrical Engineer. I make things ranging from drones to brewery monitoring systems.
+I'm Richard! I'm an Electrical Engineer ⚡, a hobbyist ⚙️, a New Yorker 🗽, an Italian-American 🇮🇹, and an uncle 🤟. I make things ranging from drones to brewery monitoring systems.
 <!--
 **richardmartino/richardmartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
