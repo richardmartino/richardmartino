@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a linux terminal clipboard manager, termcopy.
 - 🌱 I’m currently learning VHDL and ASIC design.
 - 🎓 I'm attending graduate studies @ SUNY New Paltz.
-- 🍺 I'm brewing apple cider.
+- 🍺 I'm brewing black cherry apple cider.
 - 🖥️ Visit my [website](https://richardmartino.me)!
 
 ## Latest Projects
