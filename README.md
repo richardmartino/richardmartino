@@ -8,12 +8,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on a linux terminal clipboard manager, termcopy.
-- 🌱 I’m currently learning VHDL and ASIC design.
+- 🔭 I’m currently working on making wired USB devices wireless.
+- 🌱 I’m currently learning LabView.
 - 🎓 I'm attending graduate studies @ SUNY New Paltz.
 - 🍺 I'm brewing black cherry apple cider.
 - 🖥️ Visit my [website](https://richardmartino.me)!
 
 ## Latest Projects
 - [Solar Car Charger](https://richardmartino.me/solar_car_charger.html)
+- [Wearable Wireless RFID IoT Device](https://richardmartino.me/wearable_rfid.html)
 - [fastreadr Website Analyzer](https://richardmartino.me/fastreadr.html)
